@@ -1,4 +1,15 @@
-// SCRIPT FEITO PARA ESTUDOS! 
+/*
+   SCRIPT FEITO PARA ESTUDOS! FEITO POR https://twitter.com/lucasdepace
+   PARA EXECUTAR:
+   - IR PARA A PÁGINA: https://vote.globesoccer.com/vote/best-men-club-2023/?embed=false
+   - APERTAR F12 (OU CNTRL+SHIFT+C, dependendo do navegador)
+   - IR NA ABA CONSOLE
+   - COLAR O CÓDIGO E APERTAR ENTER
+   - PARA PARAR, FECHAR A ABA
+
+   PS: DÁ PRA ABRIR QUANTAS ABAS QUISER E RODAR EM CADA UMA DELAS SIMULTANEAMENTE
+*/
+
 
 const baseUrl = 'https://0l51a8xu73.execute-api.eu-west-1.amazonaws.com/production/votes';
 const eventCode = 'MENCLUB2023';
