@@ -1,5 +1,4 @@
-// ALTERE QUANTIDADE DE REQUISIÇÕES SE QUISER. MANTENHA O PONTO E VIRGULA
-const repeticoes = 10000;
+// SCRIPT FEITO PARA ESTUDOS! 
 
 const baseUrl = 'https://0l51a8xu73.execute-api.eu-west-1.amazonaws.com/production/votes';
 const eventCode = 'MENCLUB2023';
@@ -42,7 +41,7 @@ function makeRequest() {
 }
 
 async function sendRequests() {
-  for (let i = 1; i <= repeticoes; i++) {
+  while(true){
     await makeRequest();
   }
 }
