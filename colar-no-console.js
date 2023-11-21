@@ -1,5 +1,6 @@
 /*
    SCRIPT FEITO PARA ESTUDOS! FEITO POR https://twitter.com/lucasdepace
+
    PARA EXECUTAR:
    - IR PARA A PÁGINA: https://vote.globesoccer.com/vote/best-men-club-2023/?embed=false
    - APERTAR F12 (OU CNTRL+SHIFT+C, dependendo do navegador)
